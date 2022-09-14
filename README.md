@@ -4,7 +4,6 @@ ___
 ___
 ## Используемый стек
 - PostgreSQL
-- Uvicorn
 - Python 3.10
   - Django 4
   - Django REST Framework
