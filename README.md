@@ -38,7 +38,7 @@ ___
 
 Запускаем сборку проекта:
 ```shell
-docker-compose up
+docker compose up
 ```
 Docker автоматически запустит проект по адресу http://0.0.0.0:8000/
 ___
